@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+- 💬 Ask me about anything
+- 📫 How to reach me: erdogmusmustafa@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaerdogmus&theme=dracula&show_icons=true)
 <!--
 **mustafaerdogmus/mustafaerdogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
