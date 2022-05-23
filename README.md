@@ -1,5 +1,7 @@
 ### Hi there 👋
-#### Welcome to my GitHub profile! I am a software developer living in Turkey. I am passionate about programming and learning new skills. I completed my university educations in the field of informatics. I worked in the hardware, system & network departments of the IT industry for about 7 years. I have been working in the field of software development nonstop for the last 9 years. I share my experiences on my blog website https://www.mustafaerdogmus.com/blog.
+#### Welcome to my GitHub profile! I am a software developer living in Turkey. I am passionate about programming and learning new skills. I completed  my university education in the field of informatics. For more information https://www.mustafaerdogmus.com/hakkimda/.
+
+#### I worked in the hardware, system & network departments of the IT industry for about 7 years. I have been working in the field of software development nonstop for the last 9 years. I share my experiences on my blog website https://www.mustafaerdogmus.com/blog.
 
 
 - 💬 Ask me about anything
